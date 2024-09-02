@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salut à Tous 👋
  - 🌱 Je suis actuelement en BTS SIO
  - 📫 OÙ me contacter: lenormand.guil@gmail.com
  - 🤔 Je n'avais jamais fait de programation auparavant
