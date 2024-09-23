@@ -1,9 +1,9 @@
 Hi there 👋
 Quick presentation⬇️
-Lothaire 18 years old
+Guillaume 19 years old
 
 Currently in BTS SIO 🖥️
-You can conctact me there : lothairre@gmail.com 📧
+You can conctact me there : lenormand.guil@gmail.com 📧
 Beginner in programming (hmtl,css,python) 👩‍💻
 
 
