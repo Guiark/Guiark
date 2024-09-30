@@ -10,6 +10,7 @@ You can conctact me there : lenormand.guil@gmail.com 📧
 
 Beginner in programming (hmtl,css,python) 👩‍💻
 
+I'd like to be a programmer, mainly for video games or websites. 
 
 
 
