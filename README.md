@@ -1,6 +1,5 @@
 Hi there 👋
 __________________________________________________________
-Quick presentation⬇️
 
 Guillaume 19 years old
 
