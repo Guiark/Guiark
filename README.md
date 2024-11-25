@@ -19,9 +19,9 @@ Description : J'apprend la programation grâce à mes cours
 
 ### 🔗 https://github.com/Guiark/Bloc1
 
-## 📬 Veux-tu me contacter ou collaborer ?
+## 📬 Veux-tu me contacter o ?
 
-Tu veux échanger des idées ou discuter d'une collaboration ? Je suis toujours partant pour de nouvelles aventures ! Tu peux me trouver sur lenormand.guil@gmail.com
+Si vous voulez des idées ou discuter ?  Tu peux me trouver sur lenormand.guil@gmail.com
 
 
 ## Merci d'avoir visité mon profil à une prochaine j'espère! ✨
