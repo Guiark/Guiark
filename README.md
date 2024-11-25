@@ -12,16 +12,14 @@ Langages de programmation : J'apprend le HTML ; JAVA Scrip ; PHP
 Outils de développement : J'utilise Git et VScode
 
 
-## 🚀 Projets en vedette
+## 🚀 Projets 
 ### 1. Bloc 1
 
 Description : J'apprend la programation grâce à mes cours
 
 ### 🔗 https://github.com/Guiark/Bloc1
 
-## 📬 Veux-tu me contacter o ?
-
-Si vous voulez des idées ou discuter ? 
+## 📬 Veux-tu me contacter  ?
 
 Tu peux me trouver sur lenormand.guil@gmail.com
 
