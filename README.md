@@ -21,7 +21,9 @@ Description : J'apprend la programation grâce à mes cours
 
 ## 📬 Veux-tu me contacter o ?
 
-Si vous voulez des idées ou discuter ?  Tu peux me trouver sur lenormand.guil@gmail.com
+Si vous voulez des idées ou discuter ? 
+
+Tu peux me trouver sur lenormand.guil@gmail.com
 
 
 ## Merci d'avoir visité mon profil à une prochaine j'espère! ✨
