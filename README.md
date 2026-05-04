@@ -9,15 +9,8 @@ Quand je suis devant mon écran ou pas , tu peux me trouver en train de faire du
 ## ⚙️ Mes compétences
 Langages de programmation : J'apprend le HTML/CSS ; JAVA Scrip ; PHP ; PYTHON ; 
 
-Outils de développement : J'utilise Git et VScode 
+Outils de développement : J'utilise Git / VScode / JetBrain
 
-
-## 🚀 Projets 
-### 1. Bloc 1
-
-Description : J'apprend la programation grâce à mes cours
-
-### 🔗 https://github.com/Guiark/Bloc1
 
 ## 📬 Veux-tu me contacter  ?
 
